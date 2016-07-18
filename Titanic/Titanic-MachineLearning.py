@@ -1,6 +1,6 @@
 
 # coding: utf-8
-
+# Simple classification
 # In[60]:
 
 import csv as csv
