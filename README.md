@@ -1,1 +1,3 @@
-Code for Kaggle Challenges
+Code for Some of Kaggle Challenges:
+  1) Titanic
+  2) Digit Recognizer 
